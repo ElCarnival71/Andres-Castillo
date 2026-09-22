@@ -1,3 +1,5 @@
+<img width="1200" height="400" alt="Andrew" src="https://github.com/user-attachments/assets/c0be49d8-b08d-4ea5-8e34-bfb8edce7a9f" />
+
 
 # Hola soy Andres :D
 
